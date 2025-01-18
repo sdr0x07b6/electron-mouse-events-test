@@ -19,3 +19,5 @@ yarn && yarn dev
 When you start the application, two identical windows will be displayed.  
 Place them side by side, focus one of the windows, and move the mouse cursor over and off the document area of ​​each window.  
 Compare the mouse events output to the Console.
+
+https://github.com/user-attachments/assets/97af2c5a-f66b-4ccc-9ae5-7ec5ee0df127
